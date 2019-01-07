@@ -1,24 +1,10 @@
-# README
+# Smoke Test
+The example is complete and smoke test showing a React component works.  After building the Docker containers run the following:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+````
+docker-compose up web
+````
 
-Things you may want to cover:
+Then navigate to localhost:3000/home/index and you should see a "Welcome to React" message.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+See the main [README](../../README.md) for details about getting started.
