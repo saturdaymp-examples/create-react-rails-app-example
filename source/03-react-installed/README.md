@@ -1,24 +1,12 @@
-# README
+# React Installed
+Webpacker and React has been installed by running the commands:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+````
+docker-compose run web bash
+ 
+rails webpacker:install
+rails webpacker:install:react
+rails g react:install
+````
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+See the main [README](../../README.md) for details about getting started.
