@@ -1,7 +1,7 @@
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/saturdaymp?label=Sponsors&logo=githubsponsors&labelColor=3C444C)](https://github.com/sponsors/saturdaymp)
-
 # Create a React-Rails App Example
 This is working example for the [Today I Learned How to Create a React-Rails App](https://nftb.saturdaymp.com/today-i-learned-how-to-create-a-react-rails-app/) blog post.
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/saturdaymp?label=Sponsors&logo=githubsponsors&labelColor=3C444C)](https://github.com/sponsors/saturdaymp)
 
 # Quickstart
 Install [Docker](https://docs.docker.com/install/) and then build the containers by running the following command:
